@@ -1,0 +1,28 @@
+*{
+	font-size: 30px;
+}
+body{
+	width: 100vw;
+	height: 100vh;
+	font-size: 1em;
+	font-family: Arial;
+	margin: 0px auto;
+	text-align: center;
+}
+input{
+	margin-top: 2vh;
+	line-height: 2vh;
+}
+#top{
+	display: inline-flex;
+	
+
+}
+.login{
+	color: none;
+	text-decoration: none;
+} 
+.signup{
+	color: none;
+	text-decoration: none;
+}
